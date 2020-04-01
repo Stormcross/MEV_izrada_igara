@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Čarobnjak", "Čarobnjak.csproj", "{7821755A-7E0D-721E-9148-108D4A0F67DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7821755A-7E0D-721E-9148-108D4A0F67DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7821755A-7E0D-721E-9148-108D4A0F67DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7821755A-7E0D-721E-9148-108D4A0F67DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7821755A-7E0D-721E-9148-108D4A0F67DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
