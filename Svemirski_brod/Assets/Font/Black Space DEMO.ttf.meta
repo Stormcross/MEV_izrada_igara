@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5b5ce1f4381b79b4786d12113d7db71c
+timeCreated: 1586188123
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Black Space
+  fontNames:
+  - Black Space
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
